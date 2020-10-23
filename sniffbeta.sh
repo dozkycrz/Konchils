@@ -14,10 +14,10 @@ sleep 5
 su -c 'su -c "#rm /sdcard/CatLog.apk & rm /data/data/com.termux/files/home/classes.dex & #rm /data/data/com.termux/files/home/CatLog.apk& rm /data/data/com.termux/files/home/awmeme.zip& rm /data/data/com.termux/files/home/log.txt" &echo " "'
 echo ""
 echo ""
-echo "\ntutorialnya: buka aplikasi http custom terus mport config. terus liat hasilnya di folder bluetooth  filename out.txt"
-echo "\ntutorials: open appp http custom, import configuration, see output file in folder bluetooth. filename out.txt"
-echo "\nfor  http custom v233"
-echo "\n\n@konchils"
+echo "\<font color="green"><b>ntutorial: buka aplikasi http custom terus import config. terus liat hasilnya di folder bluetooth  filename out.txt"
+echo "\<font color="green"><b>ntutorials: open appp http custom, import configuration, see output file in folder bluetooth. filename out.txt"
+echo "\<font color="green"><b>nFOR  HTTP CUSTOM V233 BETA"
+echo "\n\n<font color="green"><b>https://t.me/konchils"
 
 cd ~
 rm sniffbeta.sh
